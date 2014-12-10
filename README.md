@@ -50,4 +50,6 @@ Cara menjalankan aplikasi :
 # Debugging Apps #
 * [NFC TagInfo](https://play.google.com/store/apps/details?id=at.mroland.android.apps.nfctaginfo&hl=en)
 * [NFC Tools](https://github.com/grundid/nfctools-examples)
+* [NFC TagWriter by NXP](https://play.google.com/store/apps/details?id=com.nxp.nfc.tagwriter&hl=en)
+* [NFC TagInfo by NXP](https://play.google.com/store/apps/details?id=com.nxp.taginfolite&hl=en)
 
