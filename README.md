@@ -9,3 +9,4 @@
 
 * [PC/SC Sample Java](http://ludovicrousseau.blogspot.com/2010/06/pcsc-sample-in-java.html)
 * [Cara membaca kartu Mifare Classic 1K](http://ieatbinary.com/2009/02/11/reading-mifare-1k-card-using-java-in-linux/)
+* [Contoh cara membaca isi kartu](https://github.com/grundid/nfctools-examples)
